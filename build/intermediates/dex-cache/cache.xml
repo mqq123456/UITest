@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_269a66d11f487ad3923958efe647fe6a05ac9ba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_4bcecaae7bdd7a27ef48c2b53276d60d30e58042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_e4377097f54e95372a81d6ac1051a57e033015bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_08b0b7d00e6e136d617b7a5604c1366dce8c1cda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ddbbb57dfccae175713d847aabb3cf0cf69e6b">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e6ae057e09e31618b761656efc5c107d6fb5b830/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_84ec8e0b00f56e14303d190b215e89b27aea828d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_9ee1b1f382eebc36169da0e09c7b682e07a6b9c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_efbe78949a77c3ba448b4e99f04e724f93a189d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_3109f7754efeb02d6cec278f12ba9e0817e9defe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_676a021ad8f009a248ef50486a7190c65ec892aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_f08cc0720131fd4d45ff1e3fdeb32e7858f9735a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.zhy/percent-support-extends/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb6a4052ce1adfb69d577af519cb291b4ca4ecf1">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-percent-support-extends-1.0.1_880519ffb5b242b66955c5b88638e923898974e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_163420935598807ce3ea6b7c962f30e3342420b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97059a146b5ac1de60e591b2f43812834367723c">
+        <dex dex="/Users/heqin/AndroidStudioProjects/UITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_76d06dc01476fbb6112190e722416813b7eaf9d6/classes.dex" />
+    </item>
+
+</items>
